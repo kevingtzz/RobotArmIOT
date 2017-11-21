@@ -5,6 +5,6 @@ By:  	Kevin Gutierrez Gomez
       Juan Gonzalo Quiroz Cadavid
       Daniel Lopez Correa
       
-With the support of David Velasquez Rendon
+Supported by David Velasquez Rendon
 
 ThingWorx - Universidad EAFIT
